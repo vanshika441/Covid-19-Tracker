@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Covid19Tracker/app/src/main/res/drawable/basic_curved_rectangle.xml" value="0.2203125" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Covid19Tracker/app/src/main/res/drawable/button_rounded.xml" value="0.2203125" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Covid19Tracker/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.2203125" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Covid19Tracker/app/src/main/res/drawable/ic_baseline_arrow_upward_24.xml" value="0.2203125" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Covid19Tracker/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2203125" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Covid19Tracker/app/src/main/res/drawable/ic_search_black_24dp.xml" value="0.2203125" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Covid19Tracker/app/src/main/res/font/rubikbold.xml" value="0.234375" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Covid19Tracker/app/src/main/res/font/rubiklight.xml" value="0.234375" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Covid19Tracker/app/src/main/res/font/rubikregular.xml" value="0.234375" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Covid19Tracker/app/src/main/res/layout/activity_all_countries.xml" value="0.11639492753623189" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Covid19Tracker/app/src/main/res/layout/activity_home.xml" value="0.22" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Covid19Tracker/app/src/main/res/layout/activity_login.xml" value="0.11639492753623189" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Covid19Tracker/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Covid19Tracker/app/src/main/res/layout/activity_main2.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Covid19Tracker/app/src/main/res/layout/activity_main3.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Covid19Tracker/app/src/main/res/layout/activity_registration.xml" value="0.11639492753623189" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Covid19Tracker/app/src/main/res/layout/countrieslist.xml" value="0.11639492753623189" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Covid19Tracker/app/src/main/res/layout/testing.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Covid19Tracker/app/src/main/res/menu/menu.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
